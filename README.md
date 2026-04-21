@@ -105,6 +105,8 @@ Common use cases:
 Spam detection
 Sentiment analysis
 Document classification
+
+
 ⚙️ Workflow
 Import required libraries
 Load dataset
@@ -114,32 +116,41 @@ Split dataset into training and testing sets
 Train the Multinomial Naive Bayes model
 Make predictions
 Evaluate performance
+
+
 📊 Model Features
 Works well with high-dimensional data
 Fast and efficient
 Requires less training data
 Performs well for text classification tasks
+
+
 📈 Results
 Efficient classification of discrete data
 Performs well in real-world NLP tasks
 Provides quick and scalable predictions
+
+
 🚀 How to Run
 Clone the repository:
 git clone https://github.com/johnlaraji1608-collab/Multinomial_Naive_Bayes.git
 Open the notebook / script
 Run all cells or execute the program
 View predictions and results
+
 🛠️ Technologies Used
 Python
 NumPy
 Pandas
 Scikit-learn
 Matplotlib
+
 📚 Applications
 Email spam filtering
 Sentiment analysis
 News classification
 Text categorization
+
 📌 Conclusion
 
 Multinomial Naive Bayes is a powerful and efficient algorithm for handling discrete and text-based data. Its simplicity and speed make it widely used in natural language processing tasks.
